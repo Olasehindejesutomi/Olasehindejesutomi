@@ -31,6 +31,8 @@ A classification project exploring whether passenger information can be used to 
 
 **Technologies:** Python, Pandas, Scikit-learn
 
+ View Project
+
 ### 2. Loan Prediction
 A machine learning project focused on predicting loan approval outcomes from applicant information.
 
@@ -41,6 +43,8 @@ A machine learning project focused on predicting loan approval outcomes from app
 - Classification and model evaluation
 
 **Technologies:** Python, Pandas, Scikit-learn
+
+View Project
 
 ### 3. California Housing Price Prediction
 A regression project exploring how housing and location-related features can be used to estimate house prices.
@@ -53,6 +57,8 @@ A regression project exploring how housing and location-related features can be 
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn
 
+View Project
+
 ### 4. Iris Flower Classification
 A supervised machine learning project that classifies iris flowers using measurements such as petal and sepal length and width.
 
@@ -63,6 +69,8 @@ A supervised machine learning project that classifies iris flowers using measure
 - Evaluating predictions
 
 **Technologies:** Python, Pandas, Scikit-learn
+
+View Project
 
 ### 5. Fellowship Admission Prediction
 A classification project exploring how applicant characteristics can be used to predict admission outcomes.
@@ -76,13 +84,15 @@ A classification project exploring how applicant characteristics can be used to 
 
 **Technologies:** Python, Pandas, Scikit-learn
 
-## 🔬 My Scientific Background
+View Project
+
+## My Scientific Background
 
 My background in Microbiology and Food and Industrial Microbiology has shaped my interest in applying AI to practical scientific and industry challenges.
 
 I am particularly interested in exploring machine learning applications in food safety, agriculture, healthcare, and risk prediction.
 
-## 🎯 My Learning Goals
+## My Learning Goals
 
 - Build reliable machine learning models.
 - Develop practical AI applications and assistants.
@@ -95,14 +105,17 @@ I am particularly interested in exploring machine learning applications in food 
 
 I am building my portfolio one project at a time, strengthening my understanding of machine learning, and learning how to turn data and ideas into practical solutions.
 
-##  Let's Connect
+- ##  Let's Connect
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **GitHub:** [Add your GitHub profile URL]
-- **Email:** [Add your professional email]
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/olasehinde-jesutomi)
+- **GitHub:** [Explore my projects on GitHub](https://github.com/Olasehindejesutomi)
+- **Email:** [olasehindejesutomi@gmail.com](mailto:olasehindejesutomi@gmail.com)
+
+I'm open to learning opportunities, collaborations, mentorship, and entry-level opportunities in AI and Machine Learning.
+
+
 
 I welcome opportunities to learn, collaborate, contribute to meaningful projects, and grow in the field of Artificial Intelligence and Machine Learning.
 
----
 
-*Science × Data × AI — learning, building, and improving every day.*
+
