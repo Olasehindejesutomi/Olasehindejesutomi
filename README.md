@@ -1,4 +1,4 @@
-# Hi, I'm Olasehinde Jesutomi Victoria 👋
+# Hi, I'm Olasehinde Jesutomi Victoria 
 
 ### Aspiring Machine Learning Engineer | Python | AI & Machine Learning
 
@@ -10,7 +10,7 @@ My goal is to build practical AI solutions that solve real-world problems across
 
 I believe my scientific background, curiosity, and growing technical skills can help me approach problems from both a scientific and technology-driven perspective.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming:** Python, SQL
 - **Machine Learning:** Classification, Regression, Model Training and Evaluation
@@ -18,7 +18,7 @@ I believe my scientific background, curiosity, and growing technical skills can 
 - **Tools:** Jupyter Notebook, VS Code, Git, GitHub, MySQL Workbench
 - **Currently Exploring:** Model optimization, AI applications, and intelligent workflow automation
 
-## 🚀 My Machine Learning Projects
+##  My Machine Learning Projects
 
 ### 1. Titanic Survival Prediction
 A classification project exploring whether passenger information can be used to predict survival outcomes.
