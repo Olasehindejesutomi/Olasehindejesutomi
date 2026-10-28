@@ -91,11 +91,11 @@ I am particularly interested in exploring machine learning applications in food 
 - Explore APIs, workflow automation, and model deployment.
 - Apply AI to problems connected to science and industry.
 
-## 🌱 Currently Growing
+## Currently Growing
 
 I am building my portfolio one project at a time, strengthening my understanding of machine learning, and learning how to turn data and ideas into practical solutions.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **LinkedIn:** [Add your LinkedIn profile URL]
 - **GitHub:** [Add your GitHub profile URL]
